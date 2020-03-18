@@ -13,4 +13,5 @@ Total packets detected with either Src or Dst IP as target_ip: 1787
 ```
 
 ## Generated Graphs:
-![Length-Packet](https://github.com/itzmestar/Pcap_Graph/len_pkt.png)
+![Length-Packet Graph](len_pkt_gr.png)
+![Length-Packet Bar Graph](len_pkt.png)
